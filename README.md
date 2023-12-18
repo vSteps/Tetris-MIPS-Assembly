@@ -11,11 +11,21 @@ o controle das peças pelo teclado e o jogo funcionando.
 
 
   Instruções para rodar o jogo no MARS:
+
+  
    1º - Abrir a aba "Tools" a parte superior do programa e abrir o "Bitmap Display". 
+   
         - Largura e Altura: 512x512
+        
         - Pixels: 4x4
+        
         - Address for display: 0x10010000(Endereço que vem por padrão - static data)
+        
         - Conectar com o MIPS
+        
     2º - Abrir o "Keyboard and Display MMIO Simulator"
+    
         - Conectar com o mips
+
+        
    
