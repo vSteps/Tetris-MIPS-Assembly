@@ -14,7 +14,7 @@ o controle das peças pelo teclado e o jogo funcionando.
   Instruções para rodar o jogo no MARS:
 
   
-   1º - Abrir a aba "Tools" a parte superior do programa e abrir o "Bitmap Display". 
+     1º - Abrir a aba "Tools" a parte superior do programa e abrir o "Bitmap Display". 
    
         - Largura e Altura: 512x512
         
