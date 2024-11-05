@@ -31,19 +31,6 @@ Steps to set up the environment:
     git clone https://github.com/vSteps/Tetris-MIPS-Assembly.git
     ```
 
-3. **Installing MARS:**
-
-    - Visit: [MARS](https://www.softpedia.com/get/Programming/Coding-languages-Compilers/Vollmar-MARS.shtml#status)
-
-    - Click on download now:
-      
-      ![Download Now](https://github.com/user-attachments/assets/4859e4fe-c4c1-49c5-89b5-2385f2da9dc4)
-
-      
-    - Click on softpedia secure download:
-
-     ![Secure Download](https://github.com/user-attachments/assets/29f3599c-4c89-4b2d-adde-abe5fa036dd3)
-
 ## Execution 🚀
 
 Steps to run the project:
